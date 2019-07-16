@@ -1,3 +1,9 @@
+python3.7 (3.7.4-85-gefd23a199b-1+xenial1) xenial; urgency=medium
+
+  * Update to v3.7.4-85-gefd23a199b (2019-07-16).
+
+ -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Tue, 16 Jul 2019 21:39:56 +0000
+
 python3.7 (3.7.4-1+xenial1) xenial; urgency=medium
 
   * Python 3.7.4 release.
