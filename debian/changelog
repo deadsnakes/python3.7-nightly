@@ -1,3 +1,9 @@
+python3.7 (3.7.4-263-ga3c53a1b45-1+xenial1) xenial; urgency=medium
+
+  * Update to v3.7.4-263-ga3c53a1b45 (2019-09-12).
+
+ -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 12 Sep 2019 15:02:21 +0000
+
 python3.7 (3.7.4-246-ge58e18dfcd-1+xenial1) xenial; urgency=medium
 
   * Update to v3.7.4-246-ge58e18dfcd (2019-09-11).
