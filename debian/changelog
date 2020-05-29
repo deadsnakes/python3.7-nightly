@@ -1,3 +1,9 @@
+python3.7 (3.7.7-148-g852e8a7ed4-1+bionic1) bionic; urgency=medium
+
+  * Update to v3.7.7-148-g852e8a7ed4 (2020-05-29).
+
+ -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Fri, 29 May 2020 15:02:03 +0000
+
 python3.7 (3.7.7-146-gf5bd99b84f-1+bionic1) bionic; urgency=medium
 
   * Update to v3.7.7-146-gf5bd99b84f (2020-05-28).
